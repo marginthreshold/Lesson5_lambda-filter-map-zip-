@@ -73,7 +73,7 @@ for i in range(0,9):
     game_filed(start_list)
 
     if win(start_list):
-        print("Победил Игрок1 ")
+        print("Победил Игрок2 ")
         break
         
 
